@@ -14,7 +14,7 @@ Katrina Bykova
 
 **Data and tools**
 
-​	Data about properties listed on Airbnb website for Seattle, WA were collected with Selenium package (~1,200 properties). Additional information about Seattle neiborhoods was found from Wikipedia. Property addresses were located from Airbnb coordinates  with GeoPy package. The addresses subsequently were used to extract neighborhood information for each listed property.
+​	Data about properties listed on Airbnb website for Seattle, WA were collected with Selenium package (~1,200 properties). Additional information about Seattle neiborghhoods was found from Wikipedia. Property addresses were located from Airbnb coordinates  with GeoPy package. The addresses subsequently were used to extract neighborhood information for each listed property.
 
 **Results**
 
